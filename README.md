@@ -3,8 +3,8 @@
 - [개발 준비/워밍 업](https://gall.dcinside.com/board/view/?id=rlike&no=282010)
 - [C++/vcpkg 보충 파트](https://gall.dcinside.com/board/view/?id=rlike&no=282068)
 
-1. [태초에 '@'가 있었다](https://gall.dcinside.com/board/view/?id=rlike&no=)
-2.
+1. [태초에 '@'가 있었다](https://gall.dcinside.com/board/view/?id=rlike&no=282172)
+2. 엔티티(Entity)와 맵을 만들자
 3.
 4.
 5.
