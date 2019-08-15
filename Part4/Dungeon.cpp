@@ -49,8 +49,6 @@ void Dungeon::generate()
 
 sf::Vector2i Dungeon::findPassableTile() const
 {
-	return { m_size.x / 2, m_size.y / 2 };
-
 	const Room& room = m_rooms[randomInt(m_rooms.size())];
 
 	const int x = randomInt(room.left + 1, room.right - 2);
