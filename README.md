@@ -8,7 +8,7 @@
 3. [랜덤 던전 생성](https://gall.dcinside.com/board/view/?id=rlike&no=282927)
 4. [시야(Field of view)](https://gall.dcinside.com/board/view/?id=rlike&no=283212)
 5. [게임 월드와 몬스터](https://gall.dcinside.com/board/view/?id=rlike&no=283271)
-6.
+6. [근접 전투](https://gall.dcinside.com/board/view/?id=rlike&no=283516)
 7.
 8.
 9.
