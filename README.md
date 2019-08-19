@@ -9,7 +9,7 @@
 4. [시야(Field of view)](https://gall.dcinside.com/board/view/?id=rlike&no=283212)
 5. [게임 월드와 몬스터](https://gall.dcinside.com/board/view/?id=rlike&no=283271)
 6. [근접 전투](https://gall.dcinside.com/board/view/?id=rlike&no=283516)
-7.
+7. [인터페이스](https://gall.dcinside.com/board/view/?id=rlike&no=283618)
 8.
 9.
 10.
